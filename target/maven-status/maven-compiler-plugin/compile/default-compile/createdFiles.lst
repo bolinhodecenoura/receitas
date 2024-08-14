@@ -1,0 +1,5 @@
+com\mycompany\receitas\SQLExeption.class
+com\mycompany\receitas\dbUtil.class
+com\mycompany\receitas\JakartaRestConfiguration.class
+com\mycompany\receitas\Receita.class
+com\mycompany\receitas\resources\JakartaEE10Resource.class
